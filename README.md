@@ -1,2 +1,2 @@
 # RPG
-A RPG made with frontend
+A RPG made in game maker
